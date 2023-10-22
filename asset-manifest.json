@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Robo_Friends_ReactJS/static/css/main.1ac40f8c.css",
+    "main.js": "/Robo_Friends_ReactJS/static/js/main.737e2612.js",
+    "static/js/787.32032a02.chunk.js": "/Robo_Friends_ReactJS/static/js/787.32032a02.chunk.js",
+    "static/media/SEGA.woff": "/Robo_Friends_ReactJS/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/Robo_Friends_ReactJS/index.html",
+    "main.1ac40f8c.css.map": "/Robo_Friends_ReactJS/static/css/main.1ac40f8c.css.map",
+    "main.737e2612.js.map": "/Robo_Friends_ReactJS/static/js/main.737e2612.js.map",
+    "787.32032a02.chunk.js.map": "/Robo_Friends_ReactJS/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ac40f8c.css",
+    "static/js/main.737e2612.js"
+  ]
+}
